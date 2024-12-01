@@ -1,0 +1,10 @@
+C:\Users\mehme\OneDrive\Desktop\OBPHesaplayıcı\obpcalculator\obsCalculator\obj\Debug\obsCalculator.csproj.AssemblyReference.cache
+C:\Users\mehme\OneDrive\Desktop\OBPHesaplayıcı\obpcalculator\obsCalculator\obj\Debug\obsCalculator.Form1.resources
+C:\Users\mehme\OneDrive\Desktop\OBPHesaplayıcı\obpcalculator\obsCalculator\obj\Debug\obsCalculator.Properties.Resources.resources
+C:\Users\mehme\OneDrive\Desktop\OBPHesaplayıcı\obpcalculator\obsCalculator\obj\Debug\obsCalculator.csproj.GenerateResource.cache
+C:\Users\mehme\OneDrive\Desktop\OBPHesaplayıcı\obpcalculator\obsCalculator\obj\Debug\obsCalculator.csproj.CoreCompileInputs.cache
+C:\Users\mehme\OneDrive\Desktop\OBPHesaplayıcı\obpcalculator\obsCalculator\bin\Debug\obsCalculator.exe.config
+C:\Users\mehme\OneDrive\Desktop\OBPHesaplayıcı\obpcalculator\obsCalculator\bin\Debug\obsCalculator.exe
+C:\Users\mehme\OneDrive\Desktop\OBPHesaplayıcı\obpcalculator\obsCalculator\bin\Debug\obsCalculator.pdb
+C:\Users\mehme\OneDrive\Desktop\OBPHesaplayıcı\obpcalculator\obsCalculator\obj\Debug\obsCalculator.exe
+C:\Users\mehme\OneDrive\Desktop\OBPHesaplayıcı\obpcalculator\obsCalculator\obj\Debug\obsCalculator.pdb
